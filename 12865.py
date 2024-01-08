@@ -26,6 +26,7 @@ for i in range(1, N + 1):
 print(dp[N][K])
 
 '''
+<메모>
 무게 가치
 6 13
 4 8
